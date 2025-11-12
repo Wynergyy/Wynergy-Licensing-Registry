@@ -1,0 +1,11 @@
+{
+  "name": "verify-registry",
+  "main": "src/index.js",
+  "compatibility_date": "2025-11-12",
+  "kv_namespaces": [
+    {
+      "binding": "WYNERGY_REGISTRY",
+      "id": "46ddb9a1011d4bd6821abc06d9d1dd29"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "assurenet-pay",
+  "main": "src/index.js",
+  "compatibility_date": "2025-11-12",
+  "account_id": "35fc8a6f1d27ca35d930549ee5e26e1d",
+  "workers_dev": true,
+  "env": {
+    "production": {
+      "vars": {
+        "COMPANY_NAME": "Wynergy Fibre Solutions Ltd"
+      }
+    }
+  }
+}

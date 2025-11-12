@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wynergy Sentinel Suite",
+    "repo": "Wynergy-Sentinel-Suite",
+    "commercial_price_gbp": 1250,
+    "description": "Self-healing monitoring framework"
+  },
+  {
+    "name": "SAS Portal",
+    "repo": "SAS-Portal",
+    "commercial_price_gbp": 1000,
+    "description": "Community publishing and workshops platform"
+  }
+]

@@ -1,0 +1,8 @@
+# WYNERGY DIGITAL SIGNATURE
+Registry: Wynergy Licensing Registry
+Entity: Wynergy Fibre Solutions Ltd
+Generated: 2025-11-12 08:04:40Z
+SHA256 Master Ledger: Microsoft.PowerShell.Commands.FileHashInfo.Hash
+
+This file certifies that all assets in this registry were verified and unchanged
+at the time of signature generation.

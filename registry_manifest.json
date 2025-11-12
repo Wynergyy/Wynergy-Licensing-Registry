@@ -1,0 +1,9 @@
+{
+  "organisation": "Wynergy Fibre Solutions Ltd",
+  "registry_version": "1.0.0",
+  "licensing_contact": "licensing@wynergy.uk",
+  "jurisdiction": "United Kingdom",
+  "compliance_standard": ["UK Copyright, Designs and Patents Act 1988", "Companies Act 2006"],
+  "hash_policy": "SHA256",
+  "last_audit": "2025-11-12 08:01:31Z"
+}
